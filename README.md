@@ -1,3 +1,4 @@
+#eshop-mern
 A MERN Stack Application with React-Redux integrated
 
 ## Functionalities 
